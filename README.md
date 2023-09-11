@@ -1,8 +1,6 @@
 
 # 🚀 Market Basket Analysis
 
-A brief description of what this project does and who it's for
-
 **`In this Notebook we would learn`** 
 ​
 * What is Association Rule Learning? ​
