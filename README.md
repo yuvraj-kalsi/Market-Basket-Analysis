@@ -60,21 +60,20 @@ It says how likely item Y is purchased when item X is purchased, while controlli
 
 ## Implementing Apriori Algorithm
 
-Dataset used in the program: 🔗[Groceries](https://www.kaggle.com/datasets/shrikantuppin/groceries)
+**Dataset used in the program:** 🔗[Groceries](https://www.kaggle.com/datasets/shrikantuppin/groceries)
 
 ```bash
 The dataset contains a list of transactions and the items purchased in each transaction in a Super-Market.
 ```
 
-Libraries used in the program: 
+**Libraries used in the program:**
 
 * [NumPy](https://numpy.org/doc/stable/) and [Pandas](https://pandas.pydata.org/docs/) - Data Manipulation
 * [CSV Reader](https://docs.python.org/3/library/csv.html) - Reading the dataset
 * [MLXtend](https://rasbt.github.io/mlxtend/) - Apriori Algorithm
 
-Output:
+**Output:**
 
 ![result](https://github.com/yuvraj-kalsi/Market-Basket-Analysis/assets/84912620/7326c27f-9b8a-4d5f-a004-03c74ee8c228)
 
-There are **126 rules having support of 2% or more and lift more than 1**.  
-All the items in these rules have a positive correlation with each other, indicating if the sales of one goes up, the sales of the other goes up as well and vice versa.
+There are **126 rules having support of 2% or more and lift more than 1**. All the items in these rules have a positive correlation with each other, indicating if the sales of one goes up, the sales of the other goes up as well and vice versa.
