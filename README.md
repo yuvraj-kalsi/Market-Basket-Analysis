@@ -22,7 +22,7 @@ When we go grocery shopping, we often have a standard list of things to buy. Eac
 
 Association Rule Learning is rule-based learning for identifying the association between different variables in a database. **One of the best and most popular examples of Association Rule Learning is the Market Basket Analysis**. The problem analyses the association between various items that has the highest probability of being bought together by a customer.
 
-For example, the association rule, {bread, butter} => {milk} says that a person who has got both bread and butter in his or her basket has a high probability of buying milk also.
+For example, the association rule, **{bread, butter} => {milk}** says that a person who has got both bread and butter in his or her basket has a high probability of buying milk also.
 
 ## How Apriori works ?
 
